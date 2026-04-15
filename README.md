@@ -42,25 +42,6 @@ sudoku-csp-solver/
     README.md           Project documentation
 ```
 
----
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.7 or higher
-- No external libraries required
-
-### Installation
-
-Clone the repository and navigate into the project folder:
-
-```bash
-git clone https://github.com/your-username/sudoku-csp-solver.git
-cd sudoku-csp-solver
-```
-
----
 
 ## Input Format
 
